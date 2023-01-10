@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MAHMOOD
-- 👀 I’m interested in software engineering and web dev
+- 👀 I’m interested in software engineering and graphic design
 - 🌱 I’m currently learning html5,javascript and css
 - 💞️ I’m looking to collaborate on web designing/developping
 - 📫 How to reach me mahmoudsow80@gmail.com
